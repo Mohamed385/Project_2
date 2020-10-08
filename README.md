@@ -15,5 +15,6 @@ StormData %>%
       ylab(label = "Death toll") +
       coord_flip() +
       theme_light()
-
-![](injuries.png)
+      
+      
+<img src="injuries.png">
