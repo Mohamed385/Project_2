@@ -16,4 +16,4 @@ StormData %>%
       coord_flip() +
       theme_light()
 
-![]Death toll.png
+![]injuries.png
