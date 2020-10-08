@@ -57,3 +57,6 @@ StormData %>%
       theme_light()
 ```
 <img src="property damage estimate.png">
+
+## Conclusion
+As you can see above flood has the greatest economic consequences. Tornado is the most harmful to population health because caused the most death tolls and injuries.
