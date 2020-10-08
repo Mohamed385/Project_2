@@ -15,4 +15,4 @@ StormData %>%
       ylab(label = "Death toll") +
       coord_flip() +
       theme_light()
-      ```
+
