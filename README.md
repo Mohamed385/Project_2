@@ -17,4 +17,4 @@ StormData %>%
       theme_light()
       
 ```
-<img src="Deth toll.png">
+<img src="Death toll.png">
