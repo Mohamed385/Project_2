@@ -16,3 +16,4 @@ StormData %>%
       coord_flip() +
       theme_light()
 
+<img src="Death toll.png">
