@@ -17,3 +17,4 @@ StormData %>%
       theme_light()
       
 ```
+<img src="Deth toll.png">
